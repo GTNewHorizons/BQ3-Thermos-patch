@@ -1,0 +1,5 @@
+.idea
+eclipse
+/eclipse/
+.gradle
+out
