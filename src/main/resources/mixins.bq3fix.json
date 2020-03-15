@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package":"gambiarra",
+  "mixins":[
+    "MixinPatch"
+  ],
+  "server": [],
+  "client": [],
+  "compatibilityLevel": "JAVA_8",
+  "refmap":"mixins.bq3fix.refmap.json"
+}
