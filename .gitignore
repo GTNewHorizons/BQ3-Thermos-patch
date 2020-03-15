@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/.idea/
+/out/
+/out/production/classes/
+/build/
+/work/
+gradle.properties
+HGamesPlugin.jar
+HGames.jar
+config.yml
