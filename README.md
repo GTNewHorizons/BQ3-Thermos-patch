@@ -1,4 +1,6 @@
-# Gambiarra-BetterQuesting
-Gambiarra's fix the 2x2 crafting grid crash with BetterQuesting on Thermos servers.
+# PlayerContainerFix
+Fixes an unchecked cast on thermos.
 
-Requires SpongeMixins mod (https://github.com/GTNewHorizons/SpongeMixins) to work.
+Requires [UniMixins](https://github.com/LegacyModdingMC/UniMixins).
+
+Funfact: Gambiarra is a Portuguese term for "quick fix".
