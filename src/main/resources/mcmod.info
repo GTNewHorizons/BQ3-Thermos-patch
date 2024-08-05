@@ -1,16 +1,21 @@
-[
-  {
-    "modid": "GambiarraConfiavel",
-    "name": "GambiarraConfiavel",
-    "description": "A simple mod who fixs some things using ASM",
-    "version": "${version}",
-    "mcversion": "${mcversion}",
-    "url": "www.heyzeer0.cf",
-    "updateUrl": "",
-    "authorList": ["HeyZeer0"],
-    "credits": "",
-    "logoFile": "",
-    "screenshots": [],
-    "dependencies": []
-  }
-]
+{
+	"modListVersion": 2,
+	"modList": [{
+		"modid": "${modId}",
+		"name": "${modName}",
+		"description": "Fix an unchecked cast on thermos.",
+		"version": "${modVersion}",
+		"mcversion": "${minecraftVersion}",
+		"url": "https://github.com/GTNewHorizons/BQ3-Thermos-patch",
+		"updateUrl": "",
+		"authorList": ["juanmuscaria", "brunoxkk0"],
+		"credits": "",
+		"logoFile": "",
+		"screenshots": [],
+		"parent": "",
+		"requiredMods": [],
+		"dependencies": [],
+		"dependants": [],
+		"useDependencyInformation": false
+	}]
+}
